@@ -19,11 +19,11 @@ A beautiful, fully functional task management web application built with **HTML*
 
 ## 🚀 Live Demo
 
-[https://beamish-banoffee-cf2f11.netlify.app](https://yourusername.github.io/taskflow-todo-app)
+[https://warm-arithmetic-bd9db2.netlify.app](https://Hansani127.github.io/taskflow-todo-app)
 
 ## 📱 Install on Your Phone
 
-1. Open the [https://beamish-banoffee-cf2f11.netlify.app](https://yourusername.github.io/taskflow-todo-app) on your phone
+1. Open the [https://warm-arithmetic-bd9db2.netlify.app](https://Hansani127.github.io/taskflow-todo-app) on your phone
 2. **iPhone**: Share → "Add to Home Screen"
 3. **Android**: ⋮ Menu → "Add to Home screen"
 4. Works offline like a native app!
